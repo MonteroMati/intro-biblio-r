@@ -1,0 +1,190 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU [Anonymous]
+TI TALIS (OCDE). Estudio Internacional sobre la Enseñanza y el Aprendizaje. Informe español 2009
+X1 TALIS (OCDE).Teaching and learning international survey. Spanish Report 2009
+SO Perfiles educativos	
+LA Spanish	
+DT rapid-communication	
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 4
+PU Universidad Nacional Autónoma de México, Instituto de Investigaciones
+   sobre la Universidad y la Educación
+SN 0185-2698
+PY 2010
+VL 32
+IS 127
+BP 146
+EP 149
+EC Education & Educational Research
+C2 SciELO Mexico
+SC Education & Educational Research
+UT SCIELO:S0185-26982010000100008
+OA gold
+ER
+
+PT J
+AU Cordero Arroyo, Graciela
+   Pedroza Zúñiga, Luis Horacio
+TI Políticas de carrera docente y desarrollo profesional en México a la luz de los resultados de TALIS
+X1 Policies of teaching careers and professional development in Mexico in light of TALIS results
+SO Revista mexicana de investigación educativa	
+LA Spanish	
+DT research-article	
+DE elementary education; educational policy; teaching careers; professional development; international evaluations	
+X5 educación básica; política educativa; carrera magisterial; desarrollo profesional docente; evaluaciones internacionales	
+AB Abstract: This article compares the opinions of Mexican secondary school teachers in two editions of the OECD'S Teaching and Learning International Survey (TALIS) (2013 and 2018), in light of the conditions for teachers' careers during the presidential terms of 2006-2012 and 2012-2018. The surveys exemplify two distinct stages in teaching careers: transition and meritocracy. An analysis of the databases revealed that in terms of teachers' professional development, induction was not implemented and teacher education outside of school remained detached from teachers' needs, in spite of a slight increase in collegiate work. The study showed that in a span of five years, the deterioration in working conditions caused teachers to perceive their profession as lowly valued and poorly paid. Nonetheless, they are satisfied with their professional choice and their work.	
+X4 Resumen: Este artículo compara la opinión de los maestros mexicanos de secundaria en dos ediciones del Estudio Internacional sobre la Enseñanza y el Aprendizaje (TALIS) (2013 y 2018), a la luz de las condiciones de la carrera docente en los sexenios gubernamentales 2006-2012 y 2012-2018, las cuales ejemplifican dos etapas distintas de la carrera docente: de transición y meritocrática. A partir del análisis de las bases de datos se encontró que, en términos del desarrollo profesional docente, la inducción no fue instrumentada, la formación fuera de la escuela se mantuvo desligada de las necesidades de los docentes, si bien el trabajo colegiado tuvo un ligero incremento. El estudio muestra que, en cinco años, las condiciones del empleo se deterioraron por lo que los docentes perciben que su profesión es poco valorada y mal remunerada. No obstante, están satisfechos con su elección profesional y su trabajo.	
+C1 [Cordero Arroyo, Graciela; Pedroza Zúñiga, Luis Horacio] Universidad Autónoma de Baja California, Mexico.
+CR Backhoff E., 2015, Segundo Estudio Internacional sobre la Enseñanza y el Aprendizaje (TALIS 2013). Resultados de México
+   Backhoff Eduardo, 2009, Estudio Internacional sobre la Enseñanza y el Aprendizaje (TALIS): Resultados de México
+   Colmenares Heryca, 2017, La evaluación para la permanencia. Experiencia de docentes durante el periodo 2015-2016. Estudio de caso
+   Cordero Graciela, 2017, Diagnóstico de la política pública de formación y desarrollo profesional del personal educativo de educación básica de la Reforma Educativa
+   Cuenca R., 2015, Las carreras docentes en América Latina. La acción meritocrática para el desarrollo profesional
+   Cuevas Yazmín, 2015, La reforma educativa 2013: representaciones sociales de docentes de secundaria
+   Cuevas Yazmín, 2019, Archivos Analíticos de Políticas Educativas, V27, P1
+   Ducoing Patricia, 2017, La educación secundaria en el mundo: el mundo de la educación secundaria (México y Perú)
+   Ducoing Watty Patricia, 2017, RMIE, V22, P32
+   Ducoing Watty Patricia, 2007, RMIE, V12, P7
+   Ibarrola María de, 2018, RMIE, V23, P1285
+   Murillo FJ, 2010, REV IBEROAM EDUC, V53, P97
+   López Alma, 2013, Prácticas pedagógicas y desarrollo profesional docente en preescolar, P61
+   Lundgren U. P., 2013, REV CURRICULO FORMAC, V1, P15
+   Osorio José Raúl, 2016, Formación y trayectoria profesional de docentes y directivos de escuelas secundarias
+   Pérez M., 2010, La educación preescolar en México. Condiciones para la enseñanza y el aprendizaje
+   Ruiz Laura, 2015, Los maestros de secundaria y sus imágenes sobre la evaluación docente
+   Sandoval E., 2001, REV IBEROAMERICANA E, V25, P83
+   Scott D., 2015, Interventions in Education Systems. Reform and Development
+   2020, TALIS 2018. Results (volume II): Teachers and School Leaders as Valued Professionals
+   2014, Diario Oficial de la Federación
+   1993, Diario Oficial de la Federación
+   2013, Diario Oficial de la Federación
+   Lineamientos para la organización y el funcionamiento de los Consejos Técnicos Escolares
+   2019, México. Nota país. Resultados de TALIS 2018
+   2013, Miradas sobre la educación en Iberoamérica. Desarrollo profesional docente y mejora de la educación
+   2017, Diario Oficial de la Federación
+   2017, Modelo educativo para la educación obligatoria
+   1973, Reglamento de Escalafón de los Trabajadores al Servicio de la Secretaria de Educación Pública
+   2014, TALIS 2013 Results: An International Perspective on Teaching and Learning
+   2019, TALIS 2018. Technical Report
+   2013, Teaching and Learning International Survey (TALIS) 2013. Teacher Questionnaire
+   2015, Herramientas para el supervisor. Observación de clase
+   2019, TALIS 2018 Results (Volume I): Teachers and School Leaders as Lifelong Learners
+   2009, Creating Effective Teaching and Learning Environments First Results from TALIS, P47
+   2011, Programa Nacional de Carrera Magisterial. Lineamientos Generales
+   2016, Infraestructura, mobiliario y materiales de apoyo educativo en las escuelas primarias. ECEA 2014
+   2014, La supervisión escolar, fundamental para la transformación educativa en México: SEP
+   2006, Evaluación del desempeño y carrera profesional docente
+NR 39
+TC 0
+Z9 0
+U1 0
+U2 3
+PU Consejo Mexicano de Investigación Educativa A.C.
+SN 1405-6666
+PD 06
+PY 2021
+VL 26
+IS 89
+BP 503
+EP 531
+EC Education & Educational Research
+C2 SciELO Mexico
+SC Education & Educational Research
+UT SCIELO:S1405-66662021000200503
+OA gold
+ER
+
+PT J
+AU Sanz-Ponce, Roberto
+   Morales-Yago, Francisco
+   González-Bertolín, Aurelio
+TI Directores escolares ante el síndrome de burnout: dimensiones, factores de riesgo y sintomatología
+X1 School principals in the face of burnout syndrome: dimensions, risk factors and symptomatology
+Y1 Diretores escolares perante a síndrome de burnout: dimensões, fatores de risco e sintomatologia
+SO Hacia la Promoción de la Salud	
+LA Spanish	
+DT research-article	
+DE Psychological burnout; leadership; emotional regulation; depersonalization; achievement	
+X5 Agotamiento psicológico; liderazgo; regulación emocional; despersonalización; logro	
+Y5 Esgotamento psicológico; liderança; regulamentação emocional; despersonalização; logro	
+AB Abstract Management is essential to improve the quality of education. National and international studies place the school principal as a key figure for educational change. However, this group of school principals is subjected to a lot of stress associated with problems of leadership and school organization, which leads to discomfort and lack of commitment. Therefore, the objective of this study is to measure the dimensions that define the burnout syndrome and to identify the risk factors and symptomatology presented by the school principals. A quantitative methodology was developed, using the TALIS Questionnaire for School Principals which was applied to a sample of 76 School Principals of subsidized centers in the city of Valencia. Univariate and bivariate analyses were carried out. Regarding the results, some indicators associated with Emotional Fatigue, Depersonalization and Difficulty in personal achievement/fulfillment are presented although they mostly indicate high evaluations towards the managerial exercise and low levels of burnout in general terms. The need to increase specific training in pedagogical, shared and transformative leadership is also evident. It is also necessary to enhance managerial skills to implement correct relationships with colleagues and families. The variables gender, experience and incentives do not show significant differences. On the contrary, age and support from superiors do show differences. In conclusion, these results are in line with other research that propose improvement in managerial professionalization to increase the quality and permanence in the responsibilities assumed in the efficient management of school principalship.	
+X4 Resumen La Dirección es fundamental para mejorar la calidad de la educación. Estudios, nacionales e internacionales, sitúan al Director como figura clave para el cambio educativo. Pero, este colectivo se encuentra sometido a mucho estrés asociado a problemáticas de liderazgo y de organización escolar, lo que conlleva malestar y falta de compromiso. Por ello, se marca como objetivo medir las dimensiones que definen el síndrome de burnout e identificar los factores de riesgo y la sintomatología que presentan los Directores. Se utilizó una metodología cuantitativa, mediante el pase del Cuestionario TALIS para Directores, a una muestra de 76 Directores de centros concertados de la ciudad de Valencia. Los análisis realizados son de carácter univariado y bivariado. En cuanto a los resultados, se presentan algunos indicadores asociados al Cansancio emocional, la Despersonalización y la Dificultad para el logro/realización personal, aunque mayoritariamente señalan altas valoraciones hacia el ejercicio directivo y bajos niveles de burnout en términos generales. También se evidenció la necesidad de incrementar la formación específica en liderazgo pedagógico, compartido y transformativo. Se observó, además, la necesidad de potenciar las habilidades directivas para implementar unas correctas relaciones con compañeros y familias. Las variables sexo, experiencia e incentivos no muestran diferencias significativas, por el contrario, la edad y el apoyo de los superiores sí presentan diferencias. Como conclusión, estos resultados van en la línea de otras investigaciones, proponiéndose mejoras en la profesionalización directiva, para acrecentar la calidad y la permanencia en las responsabilidades asumidas ante la eficiente gestión de la dirección escolar.	
+Y4 Resumo A Direção é fundamental para melhorar a qualidade da educação. Estudos, nacionais e internacionais, situam ao Diretor como figura chave para o câmbio educativo. Porém, este coletivo se encontra submetido a muito estresse associado a problemáticas de liderazgo e de organização escolar, o que tem como consequência mal-estar e falta de compromisso. Por isso, se marca como objetivo medir as dimensões que definem a síndrome de burnout e identificar os fatores de risco e a sintomatologia que apresentam os Diretores. Utilizou-se uma metodologia quantitativa, através do passe do Questionario TALIS para Diretores, a uma amostra de 76 Diretores de centros concertados da cidade de Valencia. As análises feitas são de caráter uni variado e bivariado. Em quanto aos resultados, apresentam-se alguns indicadores associados ao Cansaço emocional, a Despersonalização e a Dificuldade para o logro/realização pessoal, porém maioritariamente sinalam altas valorações para o exercício diretivo e baixos níveis de burnout em termos gerais. Também se viu a necessidade de incrementar a formação específica em liderança pedagógica, compartida e transformativa. Observou-se, além, a necessidade de potenciar as habilidades diretivas para implementar umas corretas relações com colegas e famílias. As variáveis sexo, experiência e incentivos não amostram diferenças significativas, pelo contrário, a idade e o apoio dos superiores sim apresentam diferenças. Como conclusão, estes resultados vão na línea de outras pesquisas, propondo-se melhoras na profissionalização diretiva, para acrescentar a qualidade e a permanência nas responsabilidades assumidas perante a eficiente gestão da administração escolar.	
+C1 [Morales-Yago, Francisco] Universidad Católica de Valencia, Spain.
+   [Sanz-Ponce, Roberto] Universidad Católica de Valencia, Spain.
+   [González-Bertolín, Aurelio] Universidad Católica de Valencia, Spain.
+OI Sanz Ponce, Roberto/0000-0003-1147-743X
+CR Álvarez M, 2017, El arte de liderar. Artilugios e ingenios para dirigir grupos humanos
+   Barrientos A, 2011, APPL ECON, V43, P3175, DOI 10.1080/00036840903493259
+   Bolivar A., 2019, ARCH ANALITICOS POLI, V27, P1, DOI [10.14507/epaa.27.4544, DOI 10.14507/EPAA.27.4544]
+   Bolívar A, 2019, Una dirección escolar con capacidad de liderazgo pedagógico
+   *Bolivar A., 2016, ED POLICY ANAL ARCH, V24, P1, DOI [10.14507/epaa.24.2512, DOI 10.14507/EPAA.24.2512]
+   Bolívar-Ruano MR, 2017, Los centros escolares como Comunidades Profesionales de Aprendizaje. Adaptación, validación y descripción del PLCA-R
+   Campo A, 2018, Cuadernos de Pedagogía, V490, P66
+   Day C, 2019, Educadores comprometidos. Qué son, qué hacen, por qué lo hacen y lo que verdaderamente importa
+   Day C., 2015, Educadores resilientes, escuelas resilientes. Construir y sostener la calidad educativa en tiempos difíciles
+   Earley P, 2017, School Leadership and Education System Reform
+   Egido I, 2015, BORDON, V67, P71
+   Escudero JuanManuel., 2012, REV ED, P174, DOI [10.4438/1988-592X-RE-2012-EXT-211, DOI 10.4438/1988-592X-RE-2012-EXT-211]
+   Farnsworth SJ, 2015, Principal learning-centered leadership and faculty trust in the principal
+   Fernandez M. J., 2013, ESTUDIOS EDUCACION, V24, P83
+   Fullan M, 2016, La Dirección Escolar: Tres claves para maximizar su impacto
+   Garcia-Garnica M, 2019, PROFESORADO, V23, P83, DOI 10.30827/profesorado.v23i2.9576
+   Goddard R, 2015, AM J EDUC, V121, P501, DOI 10.1086/681925
+   Hargreaves A., 2014, Capital profesional transformar la enseñanza en cada escuela
+   Hargreaves A., 2008, El liderazgo sostenible. Siete principios para el liderazgo en centros educativos innovadores
+   HATTIE J., 2017, Aprendizaje visible para profesores. Maximizando el impacto en el aprendizaje
+   Hernández María Elena Mellado, 2017, Psicol. Esc. Educ., V21, P541, DOI 10.1590/2175-353920170213111102
+   Hernández R., 2014, Metodología de la investigación
+   Hernandez-Castilla R, 2017, RIE-REV INVESTIG EDU, V35, P499, DOI 10.6018/rie.35.2.279241
+   Iranzo-Garcia P, 2018, BORDON, V70, P57, DOI 10.13042/Bordon.2018.54487
+   Leiter M.P., 2017, BURNOUT RES, V5, P55, DOI [10.1016/j.burn.2017.04.003, DOI 10.1016/J.BURN.2017.04.003]
+   Llorent-Bedmar V, 2017, REV ESP PEDAGOG, V75, P541, DOI 10.22550/REP75-3-2017-04
+   Lorenzo M, 2008, Organizaciones educativas al servicio de la sociedad
+   Louis KS, 2016, EDUC ADMIN QUART, V52, P310, DOI 10.1177/0013161X15627678
+   Maslach C, 2003, CURR DIR PSYCHOL SCI, V12, P189, DOI 10.1111/1467-8721.01258
+   Maslach C, 2004, PSYCH CRTIQUES, V49, P168, DOI [10.1037/004284, DOI 10.1037/004284]
+   Montecinos C, 2018, INT J EDUC DEV, V62, P201, DOI 10.1016/j.ijedudev.2018.04.004
+   Moral C., 2014, BORDON REV PEDAGOGIA, V66, P121, DOI DOI 10.13042/B0RD0N.2014.66208
+   Mulford B., 2009, 2 INT HDB ED CHANGE, V23, P187, DOI [https://doi.org/10.1007/978-90-481-2660-6_11, DOI 10.1007/978-90-481-2660-6_11]
+   Murillo F. J, 2007, Investigación iberoamericana sobre eficacia escolar
+   Perez A. M., 2010, VIVAT ACAD, V112, P42, DOI [10.15178/va.2010.112.42-80, DOI 10.15178/VA.2010.112.42-80]
+   Ponce R., 2021, ESTUD SOBRE EDUC, V40, P173
+   Rodriguez-Gallego MR, 2020, RIE-REV INVESTIG EDU, V38, P275, DOI 10.6018/rie.364581
+   Sahlberg P, 2015, El cambio educativo en Finlandia. ¿Qué puede aprender el mundo?
+   Silva P, 2018, BORDON, V70, P109, DOI 10.13042/Bordon.2017.49427
+   Soto C, 2014, Socializar conocimientos N°2. Observando Chile desde la distancia, P153
+   Sun JP, 2012, LEADERSH POLICY SCH, V11, P418, DOI 10.1080/15700763.2012.681001
+   Tejero C., 2010, REV EDUC, V351, P361
+   Vaillant D., 2017, MEJORAMIENTO LIDERAZ, P263
+   2014, TALIS 2013. Estudio internacional de la enseñanza y el aprendizaje (Informe Español),
+   2019, Revista de Investigación Educativa, V37, P301
+   2014, TALIS 2013 Results: An International Perspective on Teaching and Learning
+   2014, El liderazgo escolar en américa latina y el caribe. Un estado del arte con base en ocho sistemas escolares de la región
+NR 50
+TC 0
+Z9 0
+U1 0
+U2 1
+PU Universidad de Caldas. Vicerrectoría de Investigaciones y Postgrados
+SN 0121-7577
+PD 06
+PY 2022
+VL 27
+IS 1
+BP 21
+EP 37
+DI 10.17151/hpsal.2022.27.1.3
+EC Public, Environmental & Occupational Health
+C2 SciELO Colombia
+SC Public, Environmental & Occupational Health
+UT SCIELO:S0121-75772022000100021
+OA gold
+ER
+
+EF

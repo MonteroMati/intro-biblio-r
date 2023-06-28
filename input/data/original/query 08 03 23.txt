@@ -1,0 +1,9 @@
+Web of Science Core Collection
+Link query: https://www.webofscience.com/wos/woscc/summary/cf43a93b-eb37-47fd-8375-482b75c44c1b-76f5e479/relevance/1
+Query: ALL=("Teaching and Learning International Study") OR TS=(TALIS)
+Date: 2008-2022
+WoS siempre exportar datos en texto plano (plain text, archivo .txt)
+
+Scopus
+Query: TITLE-ABS-KEY("Teaching and Learning International") OR TITLE-ABS-KEY("TALIS") AND PUBYEAR > 2007 AND PUBYEAR < 2023
+Scopus siempre exportar datos en separado por comas (archivo csv).
